@@ -1,0 +1,9 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    font-family: sans-serif;
+    background-color: linear-gradient(to bottom, #0303a9, #0000ff, #50c9f1, #a3e2f7);
+}
